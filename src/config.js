@@ -4,5 +4,8 @@ export var config = {
     travel: {
         detail: localhost + '/travel_attractions',
         route: localhost + '/travel_city'
+    },
+    movie: {
+        hot: localhost + '/movie'
     }
 }
